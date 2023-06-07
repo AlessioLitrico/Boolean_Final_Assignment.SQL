@@ -1,2 +1,0 @@
-# Boolean_Final_Assignment.SQL
-SQL FINAL ASSIGNMENT - QUESTIONS &amp; ANSWERS 
