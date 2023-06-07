@@ -1,6 +1,6 @@
 # Boolean_Final_Assignment.SQL
 
-DESCRIP
+DESCRIPTION :
 
 This project is the final assignment of the third section of the Boolean Data Analytics course regarding SQL.
 
@@ -29,7 +29,7 @@ a variable that shows the body mass index (BMI) of the player;
 Filter the table to show only the players with an optimal BMI (from 18.5 to 24.9). 
 	How many rows does this table have?
 
-Q 5 ) How many players do not have an optimal BMI? 
+Q5 ) How many players do not have an optimal BMI? 
 
 Q6 ) Which Team has scored the highest total number of goals (home + away) during the most recent available season? How many goals has it scored?
 
